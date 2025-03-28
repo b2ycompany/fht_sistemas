@@ -55,13 +55,14 @@ export default function Home() {
               </Link>
             </div>
             <div className="md:w-1/2 mt-8 md:mt-0">
-              <Image 
-                src="/images/hero-image.jpg" // Substitua por uma imagem real relacionada à clínica
+            <Image 
+                src="/gestaomedica.jpg"
                 alt="Médico em ação"
                 width={500}
                 height={300}
                 className="rounded-lg shadow-md"
               />
+
             </div>
           </div>
         </section>
